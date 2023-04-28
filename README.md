@@ -12,11 +12,11 @@
 
 ### index.html
 <p style="text-align: right">
-</p><p style="text-align: right">در این فایل کد HTML و تگ مورد نیاز تعریف شده است</p>
+</p><p style="text-align: right">در این فایل کد HTML و تگ مورد نیاز تعریف شده است.</p>
 
 ### style.css
 <p style="text-align: right">
-در این فایل استایل مورد نظر فرم طراحی شده است
+در این فایل استایل مورد نظر فرم طراحی شده است.
 </p>
 
 ### app.js
