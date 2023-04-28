@@ -17,21 +17,26 @@
      <form id="signup" class="form">
 
       <div class="form-field">
-        <label>Full Name</label>
-        <input type="text" placeholder="Enter your name" id= "contact-name" onkeyup="validateName()">
-        <span id = "name-error"></span>
+        <label>userName</label>
+        <input type="text" placeholder="Enter your username" id= "contact-username" onkeyup="validateUserame()">
+        <span id = "username-error"></span>
       </div>
 
       <div class="form-field">
         <label>Email Id</label>
-        <input type="email" placeholder="Enter Email" id= "contact-email" onkeyup="validateEmail()">
+        <input type="email" placeholder="Enter your Email Address" id= "contact-email" onkeyup="validateEmail()">
         <span id = "email-error"></span>
       </div>   
 
       <div class="form-field">
         <label>password</label>
-        <input type="password" placeholder="Enter password" id= "contact-password" onkeyup="validatePassword()">
+        <input type="password" placeholder="Enter your password" id= "contact-password" onkeyup="validatePassword()">
         <span id = "password-error"></span>
+      </div>
+      <div class="form-field">
+        <label>phone</label>
+        <input type="phone" placeholder="Enter your phone number" id= "contact-phone" onkeyup="validatePhone()">
+        <span id = "phone-error"></span>
       </div>
 
     <button onclick = "return validateForm()">Submit</button>
