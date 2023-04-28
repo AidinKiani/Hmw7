@@ -1,4 +1,4 @@
-## Validate Form while typing, before submit with JavaScript
+## Validate Form
 <p style="text-align: right">این کد پیاده سازی یک فرم ثبت نام است که اطلاعاتی مانند نام کاربری، رمز عبور، و ایمیل و تلفن کاربر را با محدودیت های خاصی می گیرد و چک می کند.
 </p>
 
