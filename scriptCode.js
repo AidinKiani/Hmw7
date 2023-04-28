@@ -62,7 +62,7 @@ function validatePhone(){
     }
 
     if(!phone.match(/^\d{10}$/)){
-        emailError.innerHTML = 'phone number invalid!';
+        phoneError.innerHTML = 'phone number invalid!';
         return false;
     }
 
